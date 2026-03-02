@@ -1,0 +1,4 @@
+Max outputs per block: https://bitcoin.stackexchange.com/questions/35570/what-is-the-maximum-number-of-inputs-outputs-a-transaction-can-have
+UTREEXO: https://github.com/bitcoin/bips/pull/1923
+UHS: https://gnusha.org/pi/bitcoindev/CAApLimjfPKDxmiy_SHjuOKbfm6HumFPjc9EFKvw=3NwZO8JcmQ@mail.gmail.com/
+
